@@ -58,13 +58,13 @@ python -m bot.bot
 ## Screenshots
 
 ### Telegram Bot Start
-![Telegram Start]("c:\Users\Lenovo\Pictures\Screenshots\Снимок экрана 2026-05-20 125819.png")
+![Telegram Start](screenshots/start.png)
 
 ### Create Request
-![Create Request]("c:\Users\Lenovo\Pictures\Screenshots\Снимок экрана 2026-05-20 125857.png")
+![Create Request](screenshots/request.png)
 
 ### Requests in Django Admin
-![Requests]("c:\Users\Lenovo\Pictures\Screenshots\Снимок экрана 2026-05-20 125929.png")
+![Requests](screenshots/admin.png)
 
 ### Django Admin
-![Admin]("c:\Users\Lenovo\Pictures\Screenshots\Снимок экрана 2026-05-20 125954.png")
+![Admin](screenshots/admin.png)
